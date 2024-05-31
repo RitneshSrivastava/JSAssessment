@@ -32,7 +32,7 @@ const NFT = { //object
 function listNFTs () {
     for(let i=0; i<NFTs.length; i++){
         console.log("\nID: \t\t" + (i+1));
-        console.log("Surame: \t\t" + NFTs[i].surnamename);
+        console.log("Surame: \t\t" + NFTs[i].surname);
         console.log("Skincolor: \t" + NFTs[i].skincolor);
         console.log("Pant:  " + NFTs[i].pant);
         console.log("Bling: \t\t" + NFTs[i].bling);
