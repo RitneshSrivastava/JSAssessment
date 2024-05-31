@@ -1,1 +1,2 @@
-# JSAssessment
+# JSAssessment\
+Created  NFTs using javascript.
